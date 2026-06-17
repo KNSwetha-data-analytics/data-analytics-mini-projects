@@ -3,3 +3,10 @@ Implemented the following:
 Pivot Tables
 Formulas (MIN,MAX,IF,IFS,CONCATENATE,SUBSTITUTE,LEFT,RIHT,TEXT,TRIM,SUM,SUMIF,SUMIFS,COUNT,COUNTIF,COUNTIFS,LEN,VLOOKUP,HLOOKUP)
 Conditional Formatting
+
+Date : 17/06/2026     File name : Project_Bike_Sales.xlsx
+Mini project -> Dashboard creation for bike sales data
+Implemented the following:
+Data cleaning
+pivot Tables (1. Product vs sales , 2. % profit across countries, 3. Revenue trends across age groups)
+Created Dashboard with relevant charts (usin the pivot tables) and slicers (gender, year, month).
