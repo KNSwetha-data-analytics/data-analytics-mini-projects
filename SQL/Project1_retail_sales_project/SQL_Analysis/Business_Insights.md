@@ -144,6 +144,7 @@ Which Sub-Category generates losses?
 ### Results
 Here, two scenarios have been considered :
 - Which Sub-Category generates losses over all?
+  
 | Category        | Sub-Category |  Total Loss | Loss Contribution |
 | --------------- | ------------ | ----------: | ----------------: |
 | Furniture       | Tables       | -17,725.481 |           79.177% |
@@ -151,6 +152,7 @@ Here, two scenarios have been considered :
 | Office Supplies | Supplies     |  -1,189.099 |            5.312% |
 
 - Which Sub-Category generates losses when loss transcations are considered?
+  
 | Category        | Sub-Category |  Total Loss | Loss Contribution |
 | --------------- | ------------ | ----------: | ----------------: |
 | Office Supplies | Binders      | -38,510.496 |           24.665% |
@@ -187,6 +189,7 @@ How does discount affect profit?
 |      80% |   16,963.756 |  -30,539.039 |     -180.025% |
 
 - Categorical Analysis:
+  
 | Category        | Total Discount | Total Sales | Total Profit |
 | --------------- | -------------: | ----------: | -----------: |
 | Office Supplies |         60.714 |      31.301 |       42.770 |
